@@ -1,2 +1,2 @@
 # todoapp
-this mini project give us the todo list 
+this mini project give us the todo list ;)
